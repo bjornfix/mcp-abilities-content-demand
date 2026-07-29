@@ -1,5 +1,5 @@
 === MCP Abilities - Content Demand ===
-Contributors: devenia
+Contributors: basicus
 Requires at least: 6.9
 Tested up to: 7.0
 Requires PHP: 8.0
